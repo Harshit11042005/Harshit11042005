@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Harshit 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=2nd+Year+Student+Developer;Tech+Enthusiast;Learning+and+Building;Exploring+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=3rd+Year+Student+Developer;Tech+Enthusiast;Learning+and+Building;Exploring+Open+Source" />
 </p>
 
 <p align="center">
