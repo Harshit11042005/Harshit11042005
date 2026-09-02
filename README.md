@@ -13,7 +13,7 @@
 
 # 💫 About Me
 
-💻 2nd Year Student Developer  
+💻 3rd Year Student Developer  
 🚀 Passionate about coding and technology  
 📚 Learning new skills and improving every day  
 🔥 Exploring Web Development and Open Source  
